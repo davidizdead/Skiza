@@ -3,7 +3,7 @@ const SKIZA_PRODUCTS = [
     id: 1,
     name: "Chinnar Leaf",
     category: "Food & Groceries",
-    price: 4,00,000,
+    price: 400000,
     discount: 10,
     location: "Lal Chowk, Srinagar",
     stock: 12,
