@@ -1,0 +1,80 @@
+const SKIZA_PRODUCTS = [
+  {
+    id: 1,
+    name: "Kashmiri Kahwa Tea",
+    category: "Food & Groceries",
+    price: 450,
+    discount: 10,
+    location: "Lal Chowk, Srinagar",
+    stock: 12,
+    image: "images/p1.jpg",
+    seller: "Kashmir Dry Fruits",
+    whatsapp: "9596883003",
+    commission: 10
+  },
+  {
+    id: 2,
+    name: "Pashmina Shawl",
+    category: "Fashion",
+    price: 3500,
+    discount: 15,
+    location: "Residency Road, Srinagar",
+    stock: 4,
+    image: "images/p2.jpg",
+    seller: "Kashmir Crafts",
+    whatsapp: "9596883003",
+    commission: 10
+  },
+  {
+    id: 3,
+    name: "Walnut Wood Carved Box",
+    category: "Home & Decor",
+    price: 1200,
+    discount: 0,
+    location: "Dalgate, Srinagar",
+    stock: 7,
+    image: "images/p3.jpg",
+    seller: "Wood Art Kashmir",
+    whatsapp: "9596883003",
+    commission: 10
+  },
+  {
+    id: 4,
+    name: "Saffron (Kesar) 5g",
+    category: "Food & Groceries",
+    price: 800,
+    discount: 5,
+    location: "Pampore, Srinagar",
+    stock: 20,
+    image: "images/p4.jpg",
+    seller: "Pampore Saffron",
+    whatsapp: "9596883003",
+    commission: 10
+  },
+  {
+    id: 5,
+    name: "Nike Air Max (Clone)",
+    category: "Fashion",
+    price: 1800,
+    discount: 20,
+    location: "Bohri Kadal, Srinagar",
+    stock: 3,
+    image: "images/p5.jpg",
+    seller: "Star Footwear",
+    whatsapp: "9596883003",
+    commission: 10
+  },
+  {
+    id: 6,
+    name: "Wireless Earbuds",
+    category: "Electronics",
+    price: 999,
+    discount: 25,
+    location: "Regal Chowk, Srinagar",
+    stock: 8,
+    image: "images/p6.jpg",
+    seller: "Tech Zone Kashmir",
+    whatsapp: "9596883003",
+    commission: 10
+  }
+];
