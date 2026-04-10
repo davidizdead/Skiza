@@ -4,7 +4,6 @@ const SKIZA_PRODUCTS = [
     "name": "Kashmiri Shawl",
     "category": "Fashion",
     "price": 2900,
-    "discount": 10,
     "location": "Lal Chowk, Srinagar",
     "stock": 12,
     "image": "images/p1.jpg",
