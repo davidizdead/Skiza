@@ -4,7 +4,7 @@ const SKIZA_PRODUCTS = [
     "name": "Khwa",
     "category": "Food & Groceries",
     "price": 4250,
-    "discount": 110,
+    "discount": 10,
     "location": "Lal Chowk, Srinagar",
     "stock": 12,
     "image": "images/p1.jpg",
