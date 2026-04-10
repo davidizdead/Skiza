@@ -78,15 +78,15 @@ const SKIZA_PRODUCTS = [
     commission: 10
   },
   {
-  "id": 19,
-  "name": "Himalayan Green Tea",
-  "category": "Food & Groceries",
-  "price": 7000,
-  "discount": 60,
-  "location": "Khayam, Srinagar",
-  "stock": 12,
+  "id": 2024,
+  "name": "Kahwa",
+  "category": "Home & Decor",
+  "price": 568,
+  "discount": 10,
+  "location": "Lal Chowk, Srinagar",
+  "stock": 20,
   "image": "images/p1.jpg",
-  "seller": "Adil Seller",
+  "seller": "Kashmir Dry Fruits",
   "whatsapp": "9596883003",
   "commission": 10
   },
