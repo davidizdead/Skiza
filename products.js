@@ -1,9 +1,9 @@
 const SKIZA_PRODUCTS = [
   {
     id: 1,
-    name: "Kashmiri Kahwa Tea",
+    name: "Chinnar Leaf",
     category: "Food & Groceries",
-    price: 4506,
+    price: 4,00,000,
     discount: 10,
     location: "Lal Chowk, Srinagar",
     stock: 12,
