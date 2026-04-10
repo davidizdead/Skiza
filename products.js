@@ -76,5 +76,18 @@ const SKIZA_PRODUCTS = [
     seller: "Tech Zone Kashmir",
     whatsapp: "9596883003",
     commission: 10
-  }
+  },
+  {
+  "id": 19,
+  "name": "Himalayan Green Tea",
+  "category": "Food & Groceries",
+  "price": 7000,
+  "discount": 60,
+  "location": "Khayam, Srinagar",
+  "stock": 12,
+  "image": "images/p1.jpg",
+  "seller": "Adil Seller",
+  "whatsapp": "9596883003",
+  "commission": 10
+  },
 ];
