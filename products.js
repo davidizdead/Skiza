@@ -3,7 +3,7 @@ const SKIZA_PRODUCTS = [
     id: 1,
     name: "Kashmiri Kahwa Tea",
     category: "Food & Groceries",
-    price: 450,
+    price: 4506,
     discount: 10,
     location: "Lal Chowk, Srinagar",
     stock: 12,
