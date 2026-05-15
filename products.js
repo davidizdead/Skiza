@@ -76,5 +76,18 @@ const SKIZA_PRODUCTS = [
     seller: "Tech Zone Kashmir",
     whatsapp: "9596883003",
     commission: 10
-  }
+  },
+  {
+    id: 7,
+    name:"Women Black Lolita",
+    category: "Fashion",
+    price: 12,060,
+    discount: 10,
+    location: "Lal Chowk, Srinagar",
+    stock: 12,
+    image: "images/p7.jpg",
+    seller: "Kashmir Fashion",
+    whatsapp: "9149600497",
+    commission: 10
+  },
 ];
