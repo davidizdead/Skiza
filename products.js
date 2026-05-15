@@ -85,7 +85,6 @@ const SKIZA_PRODUCTS = [
     discount: 10,
     location: "Lal Chowk, Srinagar",
     stock: 12,
-    image: "images/p7.jpg",
     seller: "Kashmir Fashion",
     whatsapp: "9149600497",
     commission: 10
